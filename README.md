@@ -18,3 +18,5 @@ from tensorflow.keras.preprocessing.image import ImageDataGenerator<br>
 # Repository files
 pneumonia.ipynb <br>
 315_resnet.ipynb <br>
+# Execution
+Open google drive and upload these files along with dataset on it. Open the ipynb files with google colab. Execute the code and if needed change the paths accordingly.
